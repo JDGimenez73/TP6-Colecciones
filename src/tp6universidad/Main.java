@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Universidad uni = new Universidad("UNLAM Virtual");
+        Universidad uni = new Universidad("UTN");
 
         // 1. Crear 3 profesores y 5 cursos
         Profesor p1 = new Profesor("P01", "Ana Torres", "Matemática");
